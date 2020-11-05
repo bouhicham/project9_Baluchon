@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 3.17,
+        "lat": 50.69
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "nuageux",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 19.33,
+        "feels_like": 18.88,
+        "temp_min": 18.33,
+        "temp_max": 20.56,
+        "pressure": 1004,
+        "humidity": 68
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.1,
+        "deg": 220
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1591983006,
+    "sys": {
+        "type": 1,
+        "id": 6559,
+        "country": "FR",
+        "sunrise": 1591932868,
+        "sunset": 1591992012
+    },
+    "timezone": 7200,
+    "id": 2982681,
+    "name": "Roubaix",
+    "cod": 200
+}
